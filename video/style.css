@@ -1,0 +1,14 @@
+body{
+    background-image: url(/Users/Wesley/Desktop/HTML/bg.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+.vid{
+    margin: 0 auto;
+    width: 500px;
+}
